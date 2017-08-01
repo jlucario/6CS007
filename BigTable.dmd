@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="BigTable" id="83F16440-C4A9-D93D-48A7-D00AE6FA62A5" version="3.5">
+<createdBy>James Braznell PC</createdBy>
+<createdTime>2013-04-30 21:36:06 UTC</createdTime>
+<ownerDesignName>BigTable</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>83F16440-C4A9-D93D-48A7-D00AE6FA62A5</designId>
+</OSDM_Design>
